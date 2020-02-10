@@ -1,0 +1,6 @@
+<body>
+<script>
+var mes = "10"
+document.write("hola mundo" + mes)
+</script>
+</body>
